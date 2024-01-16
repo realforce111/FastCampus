@@ -5,7 +5,7 @@ def repository="container-registry"
 def deployHost="ip-172-31-0-72.ap-northeast-2.compute.internal"
 def tagName="1.0"
 def nexusid="test"
-def nexuspw="test123!@#"
+def nexuspw="eney12!@"
 def jenkins_ip="ip-172-31-8-96.ap-northeast-2.compute.internal"
 
 pipeline {
